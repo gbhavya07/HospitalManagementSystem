@@ -1,0 +1,6 @@
+100;ruchi;22;female;birgunj;8084568141;2
+110;shakshi;20;female;garuda;345654;1
+400;swagata;20;female;kolkata;34586759434;3
+280;bhavya;20;female;bangalore;34567865;2
+150;saran;45;male;bolivia;8546436758;2
+300;gyan;34;male;singapore;48577556;2

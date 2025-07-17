@@ -1,0 +1,5 @@
+200;hello;600;456;3;daily
+100;ruchi;200;176;10;good for health
+110;shakshi;456;345;5;twice a week
+20;paracetamol;45;34;38;fever
+30;flexon;67;56;56;pain fever

@@ -1,0 +1,2 @@
+10;seema;nose;female;300;678765445
+20;Bijay;heart;male;500;6575473434

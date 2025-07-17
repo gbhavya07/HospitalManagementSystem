@@ -1,0 +1,1 @@
+100;300;good;20;paracetamol;5
